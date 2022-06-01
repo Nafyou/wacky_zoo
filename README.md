@@ -1,2 +1,2 @@
-# wacky_zoo
-A zoo website showcasing fun animals. Used to refresh up on HTML,CSS, JS, and practice good git habits. 
+# A fun zoo with 4 special animals :))
+## Click here to see ! http://nafew.me/wacky_zoo/
